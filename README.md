@@ -1,3 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEWITHJV-0&layout=compact&langs_count=5&theme=chartreuse-dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodingWithJv&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodingWithJv&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodingWithJv&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodingWithJv&theme=date_night" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodingWithJv&theme=date_night&utcOffset=8" />
 </div>
